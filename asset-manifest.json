@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.c2a5595a.css",
+    "main.js": "/home/static/js/main.a2669499.js",
+    "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
+    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/home/index.html",
+    "main.c2a5595a.css.map": "/home/static/css/main.c2a5595a.css.map",
+    "main.a2669499.js.map": "/home/static/js/main.a2669499.js.map",
+    "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a5595a.css",
+    "static/js/main.a2669499.js"
+  ]
+}
